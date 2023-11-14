@@ -27,7 +27,7 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-## </br></br></br></br></br></br></br>PROGRAM:
+## PROGRAM:
 ### ActivityMain.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
