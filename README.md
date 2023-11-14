@@ -1,6 +1,6 @@
-### EX NO : 03
 
-# <p align="center"> Develop a simple application to play and control the audio file in android studio </p>
+
+# EX NO : 03 Develop a simple application to play and control the audio file in android studio </p>
 
 
 ## AIM:
